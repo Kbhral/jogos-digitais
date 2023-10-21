@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
+//NUMERO_DE_TENTATIVAS 3
 
 int main(void){
 
