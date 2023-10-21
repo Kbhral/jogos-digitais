@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
-#define NUMERO_DE_TENTATIVAS 5
+//NUMERO_DE_TENTATIVAS 5
 
 int main(void){
 
